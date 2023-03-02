@@ -70,6 +70,6 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsubadri&show_icons=true&locale=en" alt="ahmadsubadri"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmadsubadri&show_icons=true&locale=en" alt="ahmadsubadri"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsubadri&" alt="ahmadsubadri"/></p>
