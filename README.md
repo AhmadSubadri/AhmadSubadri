@@ -70,6 +70,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadsubadri&show_icons=true&locale=en" alt="ahmadsubadri" width="100" height="50"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadsubadri&show_icons=true&locale=en" alt="ahmadsubadri"/></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsubadri&" alt="ahmadsubadri" width="100" height="50"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsubadri&" alt="ahmadsubadri"/></p>
