@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsubadri" alt="ahmadsubadri" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Next.Js, Vue, React Nativ, Kotlin**
+- 🌱 I’m currently learning **Laravel, Next.Js, nuxtJs, React Nativ, Ci3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmadSubadri](https://github.com/AhmadSubadri)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Codeigniter and other about PHP**
 
-- 📫 How to reach me **ahmadsubadri953@gmail.com**
+- 📫 How to reach me **ahmadsubadri953@gmail.com** or **asdev1.official@gmail.com**
 
 - 📄 Know about my experiences [as-dev.my.id](as-dev.my.id)
 
