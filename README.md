@@ -8,7 +8,7 @@ I am based in **Palembang** and currently looking for new opportunities. My inte
 
 ## Skills & Technologies
 
-
+laravel,bootstrap,dart,docker,express,firebase,cloudflare,flutter,jquery,mysql,mongodb,nextjs,php,py
 
 ## Top Projects
 
