@@ -1,73 +1,43 @@
-# React + TypeScript + Vite
+## Hi there! 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm **Ahmad Subadri**, a passionate developer who loves creating innovative solutions and exploring the world of technology. Always eager to learn and grow, I enjoy discussing all things tech!
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am based in **Palembang** and currently looking for new opportunities. My interests span across various programming languages and frameworks, as I strive to enhance my skills and contribute to impactful projects. Check out my blog at [as-dev.my.id](https://as-dev.my.id) for more insights!
 
-## React Compiler
+## Skills & Technologies
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Top Projects
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- [**CodeIgniter-3-Tailwind-CSS-Starter-Kit**](https://github.com/AhmadSubadri/CodeIgniter-3-Tailwind-CSS-Starter-Kit): A clean and ready-to-use starter kit to integrate Tailwind CSS with CodeIgniter 3. ⭐️ 0 Stars | Language: PHP
+- [**laravel-codegen**](https://github.com/AhmadSubadri/laravel-codegen): An automated generator tool for Laravel that allows you to easily create migration files and models from SQL commands. ⭐️ 3 Stars | Language: PHP
+- [**SISTA-UMBY**](https://github.com/AhmadSubadri/SISTA-UMBY): A management system for final project tasks and plagiarism detection using the Rabin Karp method. ⭐️ 4 Stars | Language: PHP
+- [**dataset-pest-rice**](https://github.com/AhmadSubadri/dataset-pest-rice): A dataset focused on pest identification in rice crops. ⭐️ 0 Stars | Language: Python
+- [**kawaltani.id**](https://github.com/AhmadSubadri/kawaltani.id): A Flutter-based mobile application designed to monitor and manage agricultural land data. ⭐️ 0 Stars | Language: Dart
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## GitHub Stats
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### 📊 GitHub Stats
+- **Public Repositories:** 41
+- **Followers:** 9
+- **Following:** 6
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadSubadri&show_icons=true&theme=radical)
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Recent Activity
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- Released [v1.0.0](https://github.com/AhmadSubadri/CodeIgniter-3-Tailwind-CSS-Starter-Kit/releases/tag/v1.0.0) for the CodeIgniter-3-Tailwind-CSS-Starter-Kit.
+- Pushed updates to CodeIgniter-3-Tailwind-CSS-Starter-Kit.
+- Opened a pull request for configuring GitHub Pages deployment.
+- Commented on GitHub issues and pull requests.
+
+## Latest Blog Posts
+
+Check back soon for my latest articles and insights!
+
+## Connect with Me
+
+{"twitter":"https://twitter.com/AhmadSubadri12","instagram":"https://www.instagram.com/abadbatok_/","linkedin":"https://www.linkedin.com/in/ahmad-subadri/","generic":"https://as-dev.my.id"}
