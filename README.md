@@ -10,14 +10,6 @@ I am based in **Palembang** and currently looking for new opportunities. My inte
 
 laravel,bootstrap,dart,docker,express,firebase,cloudflare,flutter,jquery,mysql,mongodb,nextjs,php,py
 
-## Top Projects
-
-- [**CodeIgniter-3-Tailwind-CSS-Starter-Kit**](https://github.com/AhmadSubadri/CodeIgniter-3-Tailwind-CSS-Starter-Kit): A clean and ready-to-use starter kit to integrate Tailwind CSS with CodeIgniter 3. ⭐️ 0 Stars | Language: PHP
-- [**laravel-codegen**](https://github.com/AhmadSubadri/laravel-codegen): An automated generator tool for Laravel that allows you to easily create migration files and models from SQL commands. ⭐️ 3 Stars | Language: PHP
-- [**SISTA-UMBY**](https://github.com/AhmadSubadri/SISTA-UMBY): A management system for final project tasks and plagiarism detection using the Rabin Karp method. ⭐️ 4 Stars | Language: PHP
-- [**dataset-pest-rice**](https://github.com/AhmadSubadri/dataset-pest-rice): A dataset focused on pest identification in rice crops. ⭐️ 0 Stars | Language: Python
-- [**kawaltani.id**](https://github.com/AhmadSubadri/kawaltani.id): A Flutter-based mobile application designed to monitor and manage agricultural land data. ⭐️ 0 Stars | Language: Dart
-
 ## GitHub Stats
 
 ### 📊 GitHub Stats
