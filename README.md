@@ -13,16 +13,14 @@ I'm **Ahmad Subadri, S.Kom** — a developer and Informatics master's student wh
 
 ## Skills & Technologies
 
-![Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,python,dart,flutter,js,nextjs,express,tailwind,bootstrap,jquery,mysql,mongodb,firebase,docker,cloudflare&perline=9)
+![Skills](https://skillicons.dev/icons?i=php,laravel,python,dart,flutter,js,nextjs,express,tailwind,bootstrap,jquery,mysql,mongodb,firebase,docker,cloudflare&perline=8)
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadSubadri&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSubadri&layout=compact&theme=radical)
-
-## Featured Project
-
-- [CodeIgniter-3-Tailwind-CSS-Starter-Kit](https://github.com/AhmadSubadri/CodeIgniter-3-Tailwind-CSS-Starter-Kit) — a CodeIgniter 3 starter kit with Tailwind CSS ([v1.0.0](https://github.com/AhmadSubadri/CodeIgniter-3-Tailwind-CSS-Starter-Kit/releases/tag/v1.0.0))
 
 ## Connect with Me
 
