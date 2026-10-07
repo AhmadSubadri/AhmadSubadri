@@ -5,9 +5,9 @@ I'm **Ahmad Subadri, S.Kom** — a developer and Informatics master's student wh
 ## About Me
 
 - 📍 Based in **Yogyakarta**, Indonesia
-- 🎓 Master's student in Informatics at **UIN Sunan Kalijaga Yogyakarta**
-- 💼 Part of the internal SI development team at **Universitas PGRI Yogyakarta (UPY)**, contributing to the SIAKAD ecosystem
-- 🚀 Running **AS Development**, my freelance web development practice
+- 🎓 Master's student in Informatics
+- 💼 Part of the internal SI development team at **Universitas PGRI Yogyakarta (UPY)**, contributing to the all system ecosystem
+- 🚀 Running **AS Development** and CV ASDEV Solution Technology, my freelance web development practice
 - 🔬 Research interests: AI/ML systems, RAG, and IoT, plus academic writing
 - ✍️ Blog: [as-dev.my.id](https://as-dev.my.id)
 
